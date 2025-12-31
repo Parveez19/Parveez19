@@ -1,50 +1,68 @@
 # Hi, I'm Parveez Ahmed 👋
 
-Aspiring **Data Engineer** with a strong foundation in Python, SQL, and backend development.  
-I focus on building data pipelines, working with structured datasets, and turning raw data into usable insights.
+Aspiring **Data Engineer** focused on building reliable data pipelines, working with structured datasets, and enabling analytics through clean, well-modeled data.
 
-Currently sharpening my skills in **Data Engineering, Cloud (AWS), and System Design** while preparing for entry-level data roles.
+I have hands-on experience with **Python, SQL, ETL workflows, and AWS basics**, and I’m actively preparing for entry-level **Data Engineer / Data Platform** roles.
 
 ---
 
-## 🔧 Tech Stack
+## 🔧 Core Skills
 
-- **Languages:** Python, SQL, JavaScript  
-- **Backend:** Node.js, Express.js  
+- **Programming:** Python, SQL  
+- **Data Engineering:** ETL pipelines, data cleaning, transformations  
 - **Databases:** MySQL, MongoDB  
-- **Data & Analytics:** Pandas, NumPy  
-- **Web:** React.js (basic), HTML, CSS  
+- **Data Analysis:** Pandas, NumPy  
+- **Cloud (Learning):** AWS S3, IAM  
 - **Tools:** Git, GitHub, VS Code  
-- **Currently Learning:** AWS, Data Pipelines, ETL concepts
+- **Foundations:** Linux basics, REST APIs
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Projects (Data-Focused)
 
-### 🔹 Machine Learning Project
-- Built a machine learning model for data analysis and prediction.
-- Performed data preprocessing, feature engineering, and model evaluation.
-- Tech used: Python, Pandas, NumPy, Scikit-learn.
+### 🔹 E-Commerce ETL Pipeline
+- Built an end-to-end ETL pipeline using a real-world e-commerce dataset.
+- Extracted raw data, cleaned and transformed it using Python and Pandas.
+- Stored processed data for downstream analytics and reporting.
+- Designed the pipeline with scalability and reusability in mind.
 
-### 🔹 Job Search Web Application
-- Developed a responsive job portal allowing users to register and apply for jobs.
-- Implemented secure backend APIs and form handling.
-- Tech used: React.js, Node.js, Express.js, MongoDB.
+**Tech:** Python, Pandas, SQL, AWS S3
 
-### 🔹 MERN Stack Chat Application
-- Real-time chat application with user authentication.
-- Implemented REST APIs and real-time messaging.
-- Tech used: MongoDB, Express.js, React.js, Node.js.
+---
 
-> More projects are being actively improved and documented.
+### 🔹 Customer Churn Prediction
+- Worked on a churn prediction project to identify customers likely to leave.
+- Performed data preprocessing, feature engineering, and exploratory analysis.
+- Built and evaluated machine learning models to support data-driven decisions.
+
+**Tech:** Python, Pandas, NumPy, Scikit-learn
+
+---
+
+### 🔹 Data-Driven Web Application (Supporting Project)
+- Developed backend APIs to handle structured data and user workflows.
+- Focused on database design and data handling rather than frontend features.
+
+**Tech:** Node.js, Express.js, MongoDB
+
+> Note: Earlier web projects helped build backend and database fundamentals but my current focus is **data engineering and analytics infrastructure**.
 
 ---
 
 ## 📈 What I’m Working On Now
-- Strengthening **SQL and Python** for data engineering roles  
-- Building **ETL-style projects** with real datasets  
-- Learning **AWS fundamentals** (S3, IAM, basic pipelines)  
-- Preparing for **technical interviews**
+
+- Improving **advanced SQL** (joins, window functions, optimization)
+- Building **production-style ETL pipelines**
+- Strengthening **AWS fundamentals** for data workflows
+- Preparing for **Data Engineer interviews** (SQL + Python + data modeling)
+
+---
+
+## 🎯 Career Focus
+
+- Entry-level **Data Engineer**
+- Junior **Data Platform / Analytics Engineer**
+- Roles involving **ETL, data pipelines, and structured data processing**
 
 ---
 
@@ -55,4 +73,4 @@ Currently sharpening my skills in **Data Engineering, Cloud (AWS), and System De
 
 ---
 
-⭐ If you find my work useful, feel free to explore my repositories.
+⭐ I’m actively improving my projects and documentation — feedback is welcome.
